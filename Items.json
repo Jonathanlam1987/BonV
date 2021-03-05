@@ -1,0 +1,48 @@
+
+
+const neighborhoods = [
+    'Victoria Park',
+    'east Village',
+    '17th Ave',
+    'Chinatown',
+    'Eau Claire',
+    'Downtown Core',
+    'Westend',
+    'Mission',
+    'Kensington',
+    'Inglewood']
+
+const VictoriaParkRestaurants = [
+    'Pigeon Hole',
+    'Foreign Concept',
+    '10 Foot Henry',
+    'Cardinale',
+    'Sweet Relief',
+    'Awesome Kitchen Pizza']
+
+const EastVillageRestaraunts = [
+    'Mari Bakeshop',
+    'Sidewalk Citizen Bakery',
+    'Bookers BBQ',
+    'King Eddy',
+    'Nupo'] 
+
+const SeventeenthAveRestaraunts = [
+    'Alumni Sandwiches',
+    'Damascus',
+    'Una',
+    'The Coup',
+    'Model Milk',]
+
+const chinatownRestaraunts = [
+    'U & Me',
+    'Silver Dragon',
+    'Paper Lantern',
+    'Pho Pasteur',
+    'Diamond Bakery']
+
+
+
+console.log(VictoriaParkRestaurants);
+console.log(neighborhoods);
+console.log(VictoriaParkRestaurants)
