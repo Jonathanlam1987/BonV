@@ -198,12 +198,12 @@ const items = [
     },
     {
     "id": 20,
-    "name": 'Butter Block',
-    "price": '$',
-    "city": 'Calgary',
-    "imageURL": '',
-    "neighborhood": '17th Ave SW',
-    "cuisine": 'Bakery'
+    "name": "Butter Block",
+    "price": "$",
+    "city": "Calgary",
+    "imageURL": "",
+    "neighborhood": "17th Ave SW",
+    "cuisine": "Bakery"
     },
 ]
 
