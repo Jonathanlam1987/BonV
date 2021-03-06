@@ -1,0 +1,54 @@
+
+body { 
+    background-color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+
+}
+.title {
+    color: rgb(202, 40, 40);
+    padding-left: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    -webkit-text-stroke: 1px rgb(240, 240, 243);
+    font-size: 90px;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+/* Set a style for the submit button */
+.btn {
+    background-color: #5b6e5c;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 100%;
+    }
+    
+    .btn:hover {
+    opacity: 1;
+    }
+    
+
+
+
+
+
+a:link, a:visited { 
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+

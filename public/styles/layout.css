@@ -1,0 +1,28 @@
+
+
+* {
+    box-sizing: border-box;
+    }
+    
+    .bg-img {
+    background-image: url("/images/wh.jpg");
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    }
+    
+    /* Add styles to the form container */
+    .container {
+    position: absolute;
+    left: 50px;
+    top: 80px;
+    margin: 20px;
+    max-width: 400px;
+    padding: 16px;
+    background-color: white;
+    opacity: 95%;
+    }
+    
+    
